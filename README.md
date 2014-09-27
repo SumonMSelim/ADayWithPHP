@@ -10,19 +10,11 @@ A day with PHP awesomeness to share my knowledge of PHP to newbie learners.
   * Arrays in PHP
   * Functions in PHP
   * Forms and Databases
-  * Session and Authentication
-  * Errors and Debugging
-  * Working with Files in PHP
+  * Errors Handling
 
-- OOP and MVC in PHP
-  * Classes
+- OOP in PHP
+  * Class
   * Extensibility and Inheritance
-  * Model, View, Controller
-
-- Laravel 101
-  
-
-
 
 
 
