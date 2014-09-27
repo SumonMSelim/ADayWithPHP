@@ -1,14 +1,10 @@
 <?php
-$string1 = 'Lets Learn';
-//$string2 += 'Coding';
-$string1 .= ' Coding';
-
 // concatenation
-//echo "This is a ".$string1;
+$string = 'concatenation example!';
+echo "This is a " . $string;
 
-// assignment
-echo $string1;
+echo '<br/>';
 
-
-
-
+$another_string = 'Lets Learn';
+$another_string .= ' Coding...';
+echo $another_string;

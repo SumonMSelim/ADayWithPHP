@@ -1,7 +1,11 @@
 <?php
-$variable = 10.05;
-$number = 20;
+$float_num = 10.05;
+var_dump($float_num); // return data type and value
+echo '<br/>';
 
-$sum =  $variable/$number;
+$int_num = 20;
+var_dump($int_num);
+echo '<br/>';
 
-echo $sum;
+$sum = $float_num + $int_num;
+var_dump($sum);
