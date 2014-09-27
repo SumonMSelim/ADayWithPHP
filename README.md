@@ -6,7 +6,7 @@ A day with PHP awesomeness to share my knowledge of PHP to newbie learners.
 - Getting Started with PHP
   * PHP Variables, Data Types and Operators
   * PHP Conditions
-  * PHP Loops (switch, while/do-while, for, foreach)
+  * PHP Loops (while/do-while, for, foreach)
   * Arrays in PHP
   * Functions in PHP
   * Forms and Databases
